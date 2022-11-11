@@ -1,4 +1,4 @@
-{
+{  
   "name": "tinder-clone",
   "version": "0.1.0",
   "private": true,
@@ -39,4 +39,8 @@
       "last 1 safari version"
     ]
   }
+}
+"engines": { 
+    "node": "v18.12.1",
+    "npm": "8.19.2"
 }
